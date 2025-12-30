@@ -7,13 +7,13 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ---
 
 ## 🏗️ Data Architecture
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+  The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
 <img width="2001" height="1135" alt="Picture1" src="https://github.com/user-attachments/assets/30504891-5e36-4462-82de-2cda65106505" />
 
-1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.<br>
-2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.<br>
-3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
+  1. **Bronze Layer:** Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.<br>
+  2. **Silver Layer:** This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.<br>
+  3. **Gold Layer:** Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
 
@@ -21,10 +21,10 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 This project involves:
 
-**1. Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.  
-**2. ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.  
-**3. Data Modeling:** Developing fact and dimension tables optimized for analytical queries.  
-**4. Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.  
+  **1. Data Architecture:** Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.  <br>
+  **2. ETL Pipelines:** Extracting, transforming, and loading data from source systems into the warehouse.  <br>
+  **3. Data Modeling:** Developing fact and dimension tables optimized for analytical queries.  <br>
+  **4. Analytics & Reporting:** Creating SQL-based reports and dashboards for actionable insights.  
 
 ---
 
@@ -32,9 +32,9 @@ This project involves:
 
 Everything is for Free!
 
-Datasets: Access to the project dataset (csv files).  
-SQL Server Express: Lightweight server for hosting your SQL database.  
-SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.  
+  Datasets: Access to the project dataset (csv files).  <br>
+  SQL Server Express: Lightweight server for hosting your SQL database.  <br>
+  SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.  
 
 ---
 
@@ -44,15 +44,15 @@ SQL Server Management Studio (SSMS): GUI for managing and interacting with datab
 
 #### Objective
 
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+  Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
 
-- **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.  
-- **Data Quality:** Cleanse and resolve data quality issues prior to analysis.  
-- **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.  
-- **Scope:** Focus on the latest dataset only; historization of data is not required.  
-- **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.  
+  - **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.  <br>
+  - **Data Quality:** Cleanse and resolve data quality issues prior to analysis.  <br>
+  - **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.  <br>
+  - **Scope:** Focus on the latest dataset only; historization of data is not required.  <br>
+  - **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.  
 
 ----
 
@@ -62,9 +62,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 Develop SQL-based analytics to deliver detailed insights into:
 
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+  - **Customer Behavior**  <br>
+  - **Product Performance**  <br>
+  - **Sales Trends**  <br>
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
