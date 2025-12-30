@@ -32,9 +32,10 @@ This project involves:
 
 Everything is for Free!
 
-  Datasets: Access to the project dataset (csv files).  <br>
-  SQL Server Express: Lightweight server for hosting your SQL database.  <br>
-  SQL Server Management Studio (SSMS): GUI for managing and interacting with databases.  
+- **[Datasets](datasets/):** Access to the project dataset (csv files).  <br>
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.  <br>
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
+  
 
 ---
 
@@ -71,7 +72,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## 📂 Repository Structure
-
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -95,11 +96,14 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
+```
 ---
 
 ## ☕ Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-LinkedIn Website 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+
+
