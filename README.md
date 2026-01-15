@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# 🎯 Data Warehouse and Analytics Project
 
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 
@@ -48,7 +48,7 @@ This project involves:
 
 ----
 
-### BI: Analytics & Reporting (Data Analysis)
+### 📊 BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
 
@@ -89,7 +89,7 @@ data-warehouse-project/
 ```
 ---
 
-## 🛠️ Important Links & Tools:
+## 🌐 Important Links & Tools:
 
 Everything is for Free!
 
