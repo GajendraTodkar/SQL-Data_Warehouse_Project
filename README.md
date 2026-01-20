@@ -70,7 +70,7 @@ data-warehouse-project/
 │   ├── source_crm                      # csv file cust_info, prod_info, sales details,
 │   ├── source_erp                      # csv file category, customer, location.
 │
-├── documents/                               # Project documentation and architecture details.
+├── documents/                          # Project documentation and architecture details.
 │   ├── etl                             # Draw.io file shows all different techniquies and methods of ETL.
 │   ├── data_architecture               # Draw.io file shows the project's architecture.
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata.
@@ -79,9 +79,9 @@ data-warehouse-project/
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files.
 │
 ├── scripts/                            # SQL scripts for ETL and transformations.
-│   ├── bronze_layer/                         # Scripts for extracting and loading raw data.
-│   ├── silver_layer/                         # Scripts for cleaning and transforming data.
-│   ├── gold_layer/                           # Scripts for creating analytical models.
+│   ├── bronze_layer/                   # Scripts for extracting and loading raw data.
+│   ├── silver_layer/                   # Scripts for cleaning and transforming data.
+│   ├── gold_layer/                     # Scripts for creating analytical models.
 │
 ├── tests/                              # Test scripts and quality files.
 │
