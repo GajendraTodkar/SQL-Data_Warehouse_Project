@@ -79,9 +79,9 @@ data-warehouse-project/
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files.
 │
 ├── scripts/                            # SQL scripts for ETL and transformations.
-│   ├── bronze/                         # Scripts for extracting and loading raw data.
-│   ├── silver/                         # Scripts for cleaning and transforming data.
-│   ├── gold/                           # Scripts for creating analytical models.
+│   ├── bronze_layer/                         # Scripts for extracting and loading raw data.
+│   ├── silver_layer/                         # Scripts for cleaning and transforming data.
+│   ├── gold_layer/                           # Scripts for creating analytical models.
 │
 ├── tests/                              # Test scripts and quality files.
 │
